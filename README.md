@@ -5,7 +5,7 @@ If you're reading this, you likely came from Instant Palgrave and want to make a
 
 If so, you've come to the right place. Here's
 ### How to make a Palgrave add-on
-First things first, fork this repo. Once you've done that, you'll want to give it a more original name. Then you can start editing.
+First things first, hit use this template and create a repo. Once you've done that, you'll want to give it a more original name. Then you can start editing.
 #### ppc.json
 This is your metadata file. Edit as you wish.
 #### commands.json
